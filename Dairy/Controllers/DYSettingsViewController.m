@@ -19,9 +19,6 @@
     
     
 }
--(void)test
-{
-    NSLog(@"gg");
-}
+
 
 @end
