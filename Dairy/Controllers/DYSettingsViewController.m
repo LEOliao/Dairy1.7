@@ -19,8 +19,9 @@
     
     
 }
-- (IBAction)clickBackButton:(id)sender {
-   
+-(void)test
+{
+    NSLog(@"gg");
 }
 
 @end
